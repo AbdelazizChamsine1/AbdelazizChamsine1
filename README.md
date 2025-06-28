@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **data science student at USJ** and a proud learner at **42 Beirut**, where I dive deep into system-level programming, software engineering, and peer-to-peer learning.
+I'm a **fresh graduate data scientist from USJ** and a proud learner at **42 Beirut**, where I dive deep into system-level programming, software engineering, and peer-to-peer learning.
 
 My work bridges **machine learning**, **C/C++ development**, and **real-world problem solving**. Whether it's facial recognition using Python or building a shell in C, I'm passionate about exploring complex systems and bringing smart solutions to life.
 
