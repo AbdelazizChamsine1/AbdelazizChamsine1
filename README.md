@@ -6,7 +6,7 @@
 
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=30&duration=3000&color=42B883&center=true&vCenter=true&width=500&lines=Hey..+I'm+Abdelaziz+Chamsine;Data+Science+Student+%7C+42+Beirut+Learner;Welcome+to+my+GitHub!" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=30&duration=3000&color=42B883&center=true&vCenter=true&width=500&lines=Hey..+I'm+Abdelaziz+Chamsine;Data+Scientist+%7C+42+Beirut+Learner;Welcome+to+my+GitHub!" alt="Typing SVG"/>
     </h1>
 </div>
 
